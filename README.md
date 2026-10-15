@@ -6,7 +6,7 @@
 
 ## Dashboard Preview
 
-![Cart_Abandonment_Analysis](Dashboard_image1.png)
+![Cart_Abandonment_Analysis](Dashboard_image.png)
 
 ---
 
