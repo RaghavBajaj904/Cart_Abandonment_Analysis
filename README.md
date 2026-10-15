@@ -55,9 +55,16 @@
 
 ---
 
-## 6. Repository Layout
+---
+
+## 6. Dataset Access & Reproduction
+Due to GitHub file size limits, the raw and processed data files are omitted from direct repository tracking.
+
+- **Raw Source:** [eCommerce behavior data from multi category store]([https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)) (`2019-Nov.csv`)
+- **Data Reproduction:** Run `Cart_Abandonment_Analysis.ipynb` locally to execute the cleaning pipeline and generate `2019-Nov-cleaned.parquet`.
+
+## 7. Repository Layout
 ```plaintext
-├── 2019-Nov-cleaned                 # Cleaned Parquet
 ├── Cart_Abandonment_Analysis.ipynb  # Data audit, cleaning, feature engineering
 ├── SQL.sql                          # MySQL, indexes, and aggregation CTEs
 ├── Dashboard.pbix                   # Power BI executive dashboard
