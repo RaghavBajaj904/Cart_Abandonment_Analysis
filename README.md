@@ -71,5 +71,5 @@ Due to GitHub file size limits, the raw and processed data files are omitted fro
 ├── Dashboard_image.png              # Dashboard image
 ├── Data_Cleaning_Documentation.docx # Cleaning and ETL audit report
 ├── Project_Summary.docx             # Executive summary, business insights and recommendations
-├── Presentation.pdf
+├── Presentation.pdf                 # Presentation
 └── README.md
